@@ -1,1 +1,1 @@
-testing the code and pushing the code ti Github
+testing the code and pushing the code to Github
